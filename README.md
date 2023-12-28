@@ -1,2 +1,2 @@
-# Projeto-landing-page-
+# Projeto-landing-page
 Projeto de desenvolvimento do módulo base
